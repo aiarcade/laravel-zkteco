@@ -1,5 +1,5 @@
 {
-    "name": "mehedijaman/laravel-zkteco",
+    "name": "aiarcade/laravel-zkteco",
     "description": "Connect any zkteco fingerprint attendance machine to laravel application with no effort.",
     "keywords": [
         "ZKTeco",
@@ -7,7 +7,7 @@
         "TimeAttendance",
         "Laravel"
     ],
-    "homepage": "https://github.com/mehedijaman/laravel-zkteco",
+    "homepage": "https://github.com/aiarcade/laravel-zkteco",
     "license": "MIT",
     "authors": [
         {
